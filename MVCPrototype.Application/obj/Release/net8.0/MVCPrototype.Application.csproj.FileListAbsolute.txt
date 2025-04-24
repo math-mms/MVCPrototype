@@ -1,0 +1,15 @@
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Application\bin\Release\net8.0\MVCPrototype.Application.deps.json
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Application\bin\Release\net8.0\MVCPrototype.Application.dll
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Application\bin\Release\net8.0\MVCPrototype.Application.pdb
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Application\bin\Release\net8.0\MVCPrototype.Domain.dll
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Application\bin\Release\net8.0\MVCPrototype.Domain.pdb
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Application\obj\Release\net8.0\MVCPrototype.Application.csproj.AssemblyReference.cache
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Application\obj\Release\net8.0\MVCPrototype.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Application\obj\Release\net8.0\MVCPrototype.Application.AssemblyInfoInputs.cache
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Application\obj\Release\net8.0\MVCPrototype.Application.AssemblyInfo.cs
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Application\obj\Release\net8.0\MVCPrototype.Application.csproj.CoreCompileInputs.cache
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Application\obj\Release\net8.0\MVCProto.A6D13541.Up2Date
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Application\obj\Release\net8.0\MVCPrototype.Application.dll
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Application\obj\Release\net8.0\refint\MVCPrototype.Application.dll
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Application\obj\Release\net8.0\MVCPrototype.Application.pdb
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Application\obj\Release\net8.0\ref\MVCPrototype.Application.dll

@@ -1,0 +1,11 @@
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Domain\bin\Release\net8.0\MVCPrototype.Domain.deps.json
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Domain\bin\Release\net8.0\MVCPrototype.Domain.dll
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Domain\bin\Release\net8.0\MVCPrototype.Domain.pdb
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Domain\obj\Release\net8.0\MVCPrototype.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Domain\obj\Release\net8.0\MVCPrototype.Domain.AssemblyInfoInputs.cache
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Domain\obj\Release\net8.0\MVCPrototype.Domain.AssemblyInfo.cs
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Domain\obj\Release\net8.0\MVCPrototype.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Domain\obj\Release\net8.0\MVCPrototype.Domain.dll
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Domain\obj\Release\net8.0\refint\MVCPrototype.Domain.dll
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Domain\obj\Release\net8.0\MVCPrototype.Domain.pdb
+C:\Users\nbsjcmoniquem\Downloads\MVCPrototype\MVCPrototype\MVCPrototype.Domain\obj\Release\net8.0\ref\MVCPrototype.Domain.dll

@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA8A116-E6C1-4BE3-A747-E4BF46B26079}|..\\MVCPrototype.Application\\MVCPrototype.Application.csproj|c:\\users\\nbsjcmoniquem\\downloads\\mvcprototype\\mvcprototype\\mvcprototype.application\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA8A116-E6C1-4BE3-A747-E4BF46B26079}|..\\MVCPrototype.Application\\MVCPrototype.Application.csproj|c:\\users\\nbsjcmoniquem\\downloads\\mvcprototype\\mvcprototype\\mvcprototype.application\\services\\iweatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A918FD-F423-4897-BAAA-0ABE70C15BCE}|..\\MVCPrototype.Domain\\MVCPrototype.Domain.csproj|c:\\users\\nbsjcmoniquem\\downloads\\mvcprototype\\mvcprototype\\mvcprototype.domain\\entities\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A918FD-F423-4897-BAAA-0ABE70C15BCE}|..\\MVCPrototype.Domain\\MVCPrototype.Domain.csproj|c:\\users\\nbsjcmoniquem\\downloads\\mvcprototype\\mvcprototype\\mvcprototype.domain\\entities\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|c:\\users\\nbsjcmoniquem\\downloads\\mvcprototype\\mvcprototype\\mvcprototype.api\\wwwroot\\js\\calendar\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|solutionrelative:wwwroot\\js\\calendar\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A918FD-F423-4897-BAAA-0ABE70C15BCE}|..\\MVCPrototype.Domain\\MVCPrototype.Domain.csproj|c:\\users\\nbsjcmoniquem\\downloads\\mvcprototype\\mvcprototype\\mvcprototype.domain\\mvcprototype.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\wwwroot\\js\\weather\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|solutionrelative:wwwroot\\js\\weather\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|solutionrelative:controllers\\weathercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A918FD-F423-4897-BAAA-0ABE70C15BCE}|..\\MVCPrototype.Domain\\MVCPrototype.Domain.csproj|c:\\users\\nbsjcmoniquem\\downloads\\mvcprototype\\mvcprototype\\mvcprototype.domain\\entities\\hourlytemperature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\views\\home\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|solutionrelative:views\\home\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\wwwroot\\css\\weather\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|solutionrelative:wwwroot\\css\\weather\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE97CA72-9738-4E8A-A976-6D129D85CD1C}|MVCPrototype.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\wwwroot\\js\\calendar\\main.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\calendar\\main.js",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\wwwroot\\js\\calendar\\main.js",
+              "RelativeToolTip": "wwwroot\\js\\calendar\\main.js",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAMwCwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-14T03:29:12.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tokenResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.Domain\\Entities\\tokenResponse.cs",
+              "RelativeDocumentMoniker": "..\\MVCPrototype.Domain\\Entities\\tokenResponse.cs",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.Domain\\Entities\\tokenResponse.cs",
+              "RelativeToolTip": "..\\MVCPrototype.Domain\\Entities\\tokenResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:56:20.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MVCPrototype.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.Domain\\MVCPrototype.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\MVCPrototype.Domain\\MVCPrototype.Domain.csproj",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.Domain\\MVCPrototype.Domain.csproj",
+              "RelativeToolTip": "..\\MVCPrototype.Domain\\MVCPrototype.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T19:56:22.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.Application\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "..\\MVCPrototype.Application\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.Application\\Services\\WeatherService.cs",
+              "RelativeToolTip": "..\\MVCPrototype.Application\\Services\\WeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:59:30.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.Domain\\Entities\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "..\\MVCPrototype.Domain\\Entities\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.Domain\\Entities\\WeatherForecast.cs",
+              "RelativeToolTip": "..\\MVCPrototype.Domain\\Entities\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:09:54.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IWeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.Application\\Services\\IWeatherService.cs",
+              "RelativeDocumentMoniker": "..\\MVCPrototype.Application\\Services\\IWeatherService.cs",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.Application\\Services\\IWeatherService.cs",
+              "RelativeToolTip": "..\\MVCPrototype.Application\\Services\\IWeatherService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:18:28.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherController.cs",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\Controllers\\WeatherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherController.cs",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\Controllers\\WeatherController.cs",
+              "RelativeToolTip": "Controllers\\WeatherController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAjwAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:59:30.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T18:59:30.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-13T19:56:50.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Calendar.cshtml",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\Views\\Home\\Calendar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Calendar.cshtml",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\Views\\Home\\Calendar.cshtml",
+              "RelativeToolTip": "Views\\Home\\Calendar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T19:22:37.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\wwwroot\\js\\weather\\main.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\weather\\main.js",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\wwwroot\\js\\weather\\main.js",
+              "RelativeToolTip": "wwwroot\\js\\weather\\main.js",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-13T19:56:55.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HourlyTemperature.cs",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.Domain\\Entities\\HourlyTemperature.cs",
+              "RelativeDocumentMoniker": "..\\MVCPrototype.Domain\\Entities\\HourlyTemperature.cs",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.Domain\\Entities\\HourlyTemperature.cs",
+              "RelativeToolTip": "..\\MVCPrototype.Domain\\Entities\\HourlyTemperature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:25:22.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T19:23:36.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\wwwroot\\css\\weather\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\weather\\style.css",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\wwwroot\\css\\weather\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\weather\\style.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-13T20:02:24.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-13T18:59:30.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\libman.json",
+              "RelativeDocumentMoniker": "libman.json",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\libman.json",
+              "RelativeToolTip": "libman.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T19:22:50.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T19:22:46.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T19:07:17.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nbsjcmoniquem\\Downloads\\MVCPrototype\\MVCPrototype\\MVCPrototype.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T19:06:41.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

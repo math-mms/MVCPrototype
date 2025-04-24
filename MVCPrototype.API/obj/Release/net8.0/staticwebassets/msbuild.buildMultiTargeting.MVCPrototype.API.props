@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVCPrototype.API.props" />
+</Project>

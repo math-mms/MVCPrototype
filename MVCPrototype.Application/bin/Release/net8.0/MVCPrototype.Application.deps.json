@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MVCPrototype.Application/1.0.0": {
+        "dependencies": {
+          "MVCPrototype.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MVCPrototype.Application.dll": {}
+        }
+      },
+      "MVCPrototype.Domain/1.0.0": {
+        "runtime": {
+          "MVCPrototype.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MVCPrototype.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MVCPrototype.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
