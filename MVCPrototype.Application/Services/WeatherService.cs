@@ -122,7 +122,7 @@ namespace MVCPrototype.Application.Services
             string consumerS = ; //add your secret key here embrapa
             string toEncode = $"{consumerK}:{consumerS}";
             byte[] bytesToEncode = Encoding.UTF8.GetBytes(toEncode);
-            string base64 = Convert.ToBase64String(bytesToEncode); ; // "dVZZalFaQ0x5V0E5ZDhteWdjdHV0NGJ0NHlVYTpxVlZYcnpoakVoOFdNYTlHRjd0OV9CMVlpazRh";
+            string base64 = Convert.ToBase64String(bytesToEncode);
             string tokenUrl = "https://api.cnptia.embrapa.br/token";
             string authorizationHeader = $@"Basic {base64}"; // Replace with your actual Basic token
 
